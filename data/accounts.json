@@ -1,17 +1,3 @@
 {
-  "accounts": [
-    {
-      "id": "acc_1779579568909",
-      "userId": "owner",
-      "uid": "100012345",
-      "password": "botpass123",
-      "accountName": "My First Bot",
-      "status": "stopped",
-      "processId": null,
-      "friends": [],
-      "friendRequests": [],
-      "createdAt": "2026-05-23T23:39:28.909Z",
-      "lastStarted": null
-    }
-  ]
+  "accounts": []
 }
