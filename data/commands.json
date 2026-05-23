@@ -1,0 +1,28 @@
+{
+  "commands": [
+    {
+      "id": "help",
+      "trigger": "/help",
+      "response": "Bot commands list",
+      "category": "info"
+    },
+    {
+      "id": "status",
+      "trigger": "@status",
+      "response": "Bot is online",
+      "category": "info"
+    },
+    {
+      "id": "squad3",
+      "trigger": "/3",
+      "response": "3-Player Squad Created!",
+      "category": "squad"
+    },
+    {
+      "id": "squad4",
+      "trigger": "/4",
+      "response": "4-Player Squad Created!",
+      "category": "squad"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "owner",
+      "username": "xCTx_AyOuB",
+      "passwordHash": "f11626b5b3fa789aacd5548267668f50c3283b9665b778226b4951a52a6c8ece",
+      "role": "owner",
+      "createdAt": "2026-05-23T21:33:03.831Z"
+    }
+  ]
+}

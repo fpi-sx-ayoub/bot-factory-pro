@@ -1,0 +1,14 @@
+[
+  {
+    "id": "help",
+    "trigger": "/help",
+    "response": "Help message",
+    "category": "default"
+  },
+  {
+    "id": "custom_greet",
+    "trigger": "/greet",
+    "response": "Hello friend!",
+    "category": "custom"
+  }
+]
