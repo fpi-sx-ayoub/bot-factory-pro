@@ -104,7 +104,7 @@ export default function Login() {
           <div className="mt-6 p-4 bg-neon-green/10 border border-neon-green/30 rounded text-xs text-neon-green/70">
             <p className="font-bold mb-1">Demo Credentials:</p>
             <p>Username: <span className="text-neon-green">xCTx_AyOuB</span></p>
-            <p>Password: <span className="text-neon-green">xCTx_AyOuB</span></p>
+            <p>Password: <span className="text-neon-green">owner_password</span></p>
           </div>
 
           {/* Footer */}
